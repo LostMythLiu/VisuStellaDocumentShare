@@ -1,2 +1,2 @@
-# VisuStellaDocumentShare
- 共享版
+# VisuStellaDocument
+ VisuStella文档自用
